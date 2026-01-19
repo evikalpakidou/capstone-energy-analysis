@@ -20,5 +20,10 @@ All charts and visuals were created in **Power BI** for demonstration purposes.
 - Power BI Desktop
 - Power Query / DAX
 - Excel
-- 
+
+## Full Report
+
+The complete Power BI dashboards are available as a PDF here:  
+[Energy Dashboards PDF](Energy_Dashboard.pdf)
+
 The PDF contains only visualizations from BP Energy Outlook 2023. No raw data included.
