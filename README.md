@@ -20,3 +20,5 @@ All charts and visuals were created in **Power BI** for demonstration purposes.
 - Power BI Desktop
 - Power Query / DAX
 - Excel
+- 
+The PDF contains only visualizations from BP Energy Outlook 2023. No raw data included.
